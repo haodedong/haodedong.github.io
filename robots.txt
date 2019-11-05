@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://haodedong.gitee.io/sitemap.xml
+Sitemap: http://haodedong.gitee.io/sitemap.xml
