@@ -1,20 +1,42 @@
-<?xml-stylesheet type="text/xsl" href="http://haodedong.gitee.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://haodedong.gitee.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://haodedong.gitee.io/categories/</loc>
+    <loc>https://haodedong.gitee.io/</loc>
+    <lastmod>2019-11-05T01:09:35+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://haodedong.gitee.io/</loc>
+    <loc>https://haodedong.gitee.io/post/first/</loc>
+    <lastmod>2019-11-05T01:09:35+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://haodedong.gitee.io/tags/</loc>
+    <loc>https://haodedong.gitee.io/post/</loc>
+    <lastmod>2019-11-05T01:09:35+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://haodedong.gitee.io/about/</loc>
+    <lastmod>2019-11-05T01:06:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://haodedong.gitee.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://haodedong.gitee.io/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
