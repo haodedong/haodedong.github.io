@@ -3,20 +3,27 @@
   
   <url>
     <loc>https://haodedong.gitee.io/</loc>
-    <lastmod>2019-11-05T01:09:35+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://haodedong.gitee.io/post/first/</loc>
-    <lastmod>2019-11-05T01:09:35+08:00</lastmod>
+    <lastmod>2019-11-05T22:12:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://haodedong.gitee.io/post/</loc>
+    <lastmod>2019-11-05T22:12:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://haodedong.gitee.io/post/tt/</loc>
+    <lastmod>2019-11-05T22:12:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://haodedong.gitee.io/post/first/</loc>
     <lastmod>2019-11-05T01:09:35+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
