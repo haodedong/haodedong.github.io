@@ -1,20 +1,20 @@
-<?xml-stylesheet type="text/xsl" href="https://haodedong.gitee.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://haodedong.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://haodedong.gitee.io/categories/</loc>
+    <loc>https://haodedong.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://haodedong.gitee.io/</loc>
+    <loc>https://haodedong.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://haodedong.gitee.io/tags/</loc>
+    <loc>https://haodedong.github.io/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
