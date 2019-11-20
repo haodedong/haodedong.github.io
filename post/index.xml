@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 网志</title>
+    <title>Posts on 郝德东的网络日志</title>
     <link>https://haodedong.github.io/post/</link>
-    <description>Recent content in Posts on 网志</description>
+    <description>Recent content in Posts on 郝德东的网络日志</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 22 Sep 2019 18:12:53 +0800</lastBuildDate>
