@@ -1,3 +1,12 @@
+---
+title: "My 2 Post"
+date: 2020-03-06T14:21:45+08:00
+draft: false
+toc: false
+images:
+tags: 
+  - untagged
+---
 
 1. 对Java平台的理解
 	- 基本语言特性：
