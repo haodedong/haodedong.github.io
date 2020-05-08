@@ -10,10 +10,4 @@
 高性能：与那些解释型的高级脚本语言相比，Java的确是高性能的。事实上，Java的运行速度随着JIT(Just-In-Time)编译器技术的发展越来越接近于C++。（PS:JIT 能够在运行时将热点代码编译成机器码，这种情况下部分热点代码就属于编译执行，而不是解释执行了。）
 多线程：有多种方法创建线程，支持多个线程的同时执行，并提供多线程之间的同步机制。
 动态：Java程序需要的类能够动态地被载入到运行环境，也可以通过网络来载入所需要的类。
-原文链接———&amp;gt;Java初学者必知——Java语言的11大特点 - 狼丶宇先生的网络科技空间 - CSDN博客</description></item><item><title>My First Post</title><link>https://haodedong.github.io/posts/docker%E5%AE%89%E8%A3%85halo%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E7%82%B9/</link><pubDate>Fri, 06 Mar 2020 14:21:45 +0800</pubDate><guid>https://haodedong.github.io/posts/docker%E5%AE%89%E8%A3%85halo%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E7%82%B9/</guid><description>docker install halo 今天，我使用docker安装halo，按照这个教程来的。
-但是由于文档并没有介绍清楚使用mysql应该怎么做 我使用docker安装了mysql5.7。
-docker pull mysql:5.7 可能会执行失败，多试几次即可。 然后执行
-docker run -d -p 3306:3306 --name mymysql -e MYSQL_ROOT_PASSWORD=mimaxxx mysql:5.7 接下来
-docker run --rm -it -d --name halo -p 8090:8090 -v ~/.halo:/root/.halo ruibaby/halo 发现并不能启动halo，于是在代码中查找日志所在位置
-logging: level: run.halo.app: INFO file: path: ${user.home}/.halo/logs 在登陆远程服务器后，找到日志文件 spring.log。 发现错误如下
-2020-03-04 13:00:47.220 ERROR 6 --- [main] com.zaxxer.hikari.pool.HikariPool : HikariPool-1 - Exception during pool initialization. com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure The last packet sent successfully to the server was 0 milliseconds ago.</description></item></channel></rss>
+原文链接———&amp;gt;Java初学者必知——Java语言的11大特点 - 狼丶宇先生的网络科技空间 - CSDN博客</description></item></channel></rss>
