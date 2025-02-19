@@ -1,6 +1,6 @@
 <script setup>
 import {ref} from 'vue';
-const startDate = new Date("3/8/2022");
+const startDate = new Date("2/14/2025");
 const now = new Date();
 let howLong = ref('');
 howLong.value = parseInt((now - startDate) / 86400000);

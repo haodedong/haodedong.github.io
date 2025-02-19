@@ -27,3 +27,16 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### 打docker包
+    
+    ```sh   
+docker build -t lovebml:1.0 .
+docker save -o lovebml.tar lovebml:1.0
+docker load -i lovebml.tar
+```
+### 启动docker
+
+    ```sh       
+docker run -d -p 1314:80 --name lovebml lovebml:1.0
+    ```

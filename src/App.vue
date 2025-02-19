@@ -20,7 +20,7 @@ window.onload = function () {
 // 获取页面高度
 const getPageHeight = function () {
   const pageHeight = window.innerHeight;
-  document.querySelector(".notes").style.height = `${pageHeight - 100}px`;
+  document.querySelector(".container").style.height = `${pageHeight - 100}px`;
   console.log(
     "calendar height",
     document.querySelector("div.calendar").clientHeight
@@ -41,7 +41,7 @@ onMounted(() => {
   <header>
     <h2>
       <span>&hearts;&nbsp;</span>Love Anniversary<span>&nbsp;&heartsuit;</span>
-      <!-- <span>&hearts;&nbsp;</span>Anniversary<span>&nbsp;&heartsuit;</span> -->
+<!--       <span>&hearts;&nbsp;</span>Anniversary<span>&nbsp;&heartsuit;</span>-->
     </h2>
   </header>
 
@@ -56,15 +56,15 @@ onMounted(() => {
           <AnniversaryDay></AnniversaryDay>
         </div>
       </div>
-      <div class="notes"></div>
+<!--      <div class="notes"></div>-->
     </div>
   </main>
 
   <footer>
-    <p>Chen<span>&nbsp;&hearts;&nbsp;</span>Hao</p>
+    <p>郝德东<span>&nbsp;&hearts;&nbsp;</span>毕明莉</p>
     <!-- <p>HELLO</p> -->
   </footer>
-  <!-- <canvas id="confetti"></canvas> -->
+<!--   <canvas id="confetti"></canvas>-->
 </template>
 
 <style scoped>
@@ -92,7 +92,7 @@ footer {
 
 .container {
   display: grid;
-  grid-template-columns: 0.382fr 0.618fr;
+  grid-template-columns: 1fr;
   grid-auto-rows: minmax(400px, auto);
   grid-gap: 2px;
   gap: 2px;
